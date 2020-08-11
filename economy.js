@@ -29,4 +29,4 @@ client.on('ready', () => {
 })
 
 
-client.login(config.token)
+client.login(config.NzQyNTA2NDc0MzcwMjM2NDk3.XzHHCg.gQVQfcU38K6_QZ9DEz74MXKhcNQ)
